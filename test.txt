@@ -1,2 +1,2 @@
 test nha
-i create new branch named "feature1"
+i create new branch named "feature1". i'm learning to solve conflict
