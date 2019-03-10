@@ -1,2 +1,2 @@
-test nha
+tui ngoi day hoc git
 i create new branch named "feature1". i'm learning to solve conflict
